@@ -1,0 +1,21 @@
+{
+  "name": "alya-ai",
+  "version": "2.0.0",
+  "description": "Chat with Kujou Alisa using the Telegraf library",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@Irull2nd",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "chalk": "^5.3.0"
+  },
+  "devDependencies": {
+    "axios": "^1.4.0",
+    "node-fetch": "^2.6.11"
+  }
+}
