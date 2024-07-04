@@ -5,7 +5,7 @@ import { ApiGratis } from "./system/schema.js";
 import { quote } from "./system/quote.js";
 const client = new ApiGratis();
 
-const bot = new Telegraf("7148644440:AAHvmfdKhoaHwb-y7LSCndCrWhxTLw-dwdw");
+const bot = new Telegraf("PASTE_YOUR_TELEGRAM_TOKEN"); // telegram token
 // Start Message
 bot.start((ctx) => ctx.reply("Welcome!!!"));
 // Help Message
