@@ -1,3 +1,10 @@
+/** 
+ *  Created by Irull2nd
+ *  CopyRight 2024 MIT License
+ *  My Github : https://github.com/izumii44
+ *  My Channell : https://bit.ly/3VHEPEL
+*/
+
 import { Telegraf } from "telegraf";
 import chalk from "chalk";
 import fetch from "node-fetch";
